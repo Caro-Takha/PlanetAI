@@ -12,17 +12,6 @@
 .col-offset-1 {
   margin-left: 8.33%}
 
-/* Blocs temporaires*/
-    /* [class*="col-"], footer {
-    background-color: white;
-    border: 1px solid lightgrey;
-    border-radius: 6px;
-    line-height: 40px;
-    text-align: left;
-    background-color: inherit;
-  } */
-
-/* Corps */
 body {
   margin: 0px -15px 0px -15px;
   font-family: Dosis-Regular,Arial,sans-serif;
@@ -35,8 +24,8 @@ body {
   padding-top: 3em;
   width:100%;
   height:16em;
-  box-shadow: 0 0 30px 40px #4A001F;
-  background-color: #4A001F;
+  box-shadow: 0 0 30px 40px #014400;
+  background-color: #014400;
   /* background-color: #e84353;
   background-image: linear-gradient(45deg, #e84353 0%, #89ecda 52%, #4A001F 90%); */
   /*Text*/
