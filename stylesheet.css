@@ -63,6 +63,10 @@ h3 {
   color:#016300;
 }
 
+.p {
+  text-align: justify;
+}
+
 footer {
   font-size: 0.8em;
   margin-top: 10em; margin-right: 0.5em;padding-bottom: 0em;
