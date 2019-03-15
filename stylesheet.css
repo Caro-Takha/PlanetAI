@@ -50,7 +50,7 @@ body {
   padding-left: 6em; padding-right: 6em;
   font-size: 1.2em;
   background-color: inherit;
-  align: justify;
+  text-align: justify;
 }
 
 .part {
