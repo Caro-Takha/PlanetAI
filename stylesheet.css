@@ -19,6 +19,13 @@ body {
   background-color: none;
 }
 
+.bgimg {
+  background-position: center;
+  background-size: cover;
+  background-image: url("nature.jpg");
+  min-height: 75%;
+}
+
 .header {
   /*Container*/
   padding-top: 3em;
