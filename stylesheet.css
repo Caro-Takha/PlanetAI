@@ -23,7 +23,6 @@ body {
   background-position: center;
   background-size: cover;
   background-image: url("nature.jpg");
-  min-height: 65%;
 }
 
 .header {
